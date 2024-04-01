@@ -2,7 +2,7 @@
 import express, { Request, Response } from 'express';
 const app = express();
 
-const port = process.env.PORT || 4000;
+const port = process.env.PORT || 5000;
 
 //IMPORTANT
 
